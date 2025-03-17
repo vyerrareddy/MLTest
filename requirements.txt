@@ -1,0 +1,12 @@
+ipywidgets
+notebook
+ipykernel 
+xgboost
+scikit-learn 
+pandas 
+statsmodels
+matplotlib
+seaborn
+optuna
+
+
