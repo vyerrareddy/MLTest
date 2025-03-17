@@ -13,6 +13,6 @@ Activate the created Python environment :
 "conda activate ./env" 
 
 ## Step 3 
-Please install the libraries  requirements.txt 
+Please install the libraries from  requirements.txt 
 
 "pip install -r requirements.txt"
